@@ -1,9 +1,6 @@
 html,
 body {
-  background-image: url("../images/404ever.png");
-  background-position: center;
-  background-attachment: fixed;
-  background-size: cover;
+  
   height: 100%;
   margin: 0;
   padding: 0;
@@ -80,3 +77,10 @@ body {
   padding: 20px;
   cursor: pointer;
 }
+
+.unfound {
+  background-image: url("../images/404ever.png");
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+};
